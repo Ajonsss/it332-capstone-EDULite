@@ -55,3 +55,10 @@ Additional Notes for Database Schema
   - id
   - StudentName
   - Scores
+
+# Milestones Per Week
+1. User login and authentication
+2. Creation of student accounts
+3. Importing of student records through excel files
+4. Data Analytics Processes
+5. Integration of Artificial Intelligence in the system
