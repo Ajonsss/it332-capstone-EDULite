@@ -62,7 +62,7 @@ Does your system need export/import?
 Does your system need automation?
 - Yes, We will be using the Google Gemini API for generation of analytics report.
 
-#Database Schema (Additional Notes)
+# Database Schema (Additional Notes)
 - Login
   - email
   - password
