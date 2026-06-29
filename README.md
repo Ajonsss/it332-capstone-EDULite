@@ -62,3 +62,7 @@ Additional Notes for Database Schema
 3. Importing of student records through excel files
 4. Data Analytics Processes
 5. Integration of Artificial Intelligence in the system
+
+# Task for tomorrow
+- Ability to create, delete and edit student accounts
+- Student accounts should includes student's name and score
