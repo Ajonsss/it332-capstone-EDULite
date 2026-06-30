@@ -11,6 +11,14 @@ def initialize_database():
             password TEXT NOT NULL
         )
     """)
+    
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS students (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            student_name TEXT UNIQUE NOT NULL,
+            scores TEXT NOT NULL
+        )
+    """)
 
     conn.commit()
     conn.close()
