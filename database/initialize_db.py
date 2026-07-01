@@ -16,9 +16,11 @@ def initialize_database():
         CREATE TABLE IF NOT EXISTS students (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             student_name TEXT UNIQUE NOT NULL,
-            scores TEXT NOT NULL
+            scores INTEGER NOT NULL
         )
     """)
+    
+    # cursor.execute("DROP TABLE (name)")
 
     conn.commit()
     conn.close()
