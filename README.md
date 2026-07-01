@@ -8,7 +8,7 @@ August 2026 - (To follow)
 # Lab Activity
 # Week 1 - Deliverable
   Lab Activity 1: Week 1 Deliverable 
-    1. List all systems/APls your capstone might integrate with
+  1. List all systems/APls your capstone might integrate with
   One of the few possible APIs that our capstone might integrate with is the Gemini API. Aside from being a capstone requirement, this will also help aid in the creation of the prescriptive analytics report.
   
   2. For each: what data, what direction, how often?
