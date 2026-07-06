@@ -179,9 +179,18 @@ Before release:
 ---
 
 # Week 3 - Deliverable
-- (To follow)
+
+# Week 4
 
 # 07/06/26 
 - Presented our current progress on our capstone project.
 - For the finals, we are required to present the completed capstone project to our client.
+
+# Plan for the consultations
+Concerns:
+
+Removal of some parts of the research study:
+    - “Low-resource”
+        - Removing the “Low-resource” part of the study to only focus on one problem: The student’s focus Retention OR Teacher’s Manual Teaching Methods. (The 2 are correlated)
+        - The removal of the “Low-resource” part of the study would prompt us to change tech stack and implement the system to web-based and use web-based frameworks.
 
