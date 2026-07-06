@@ -180,3 +180,8 @@ Before release:
 
 # Week 3 - Deliverable
 - (To follow)
+
+# 07/06/26 
+- Presented our current progress on our capstone project.
+- For the finals, we are required to present the completed capstone project to our client.
+
