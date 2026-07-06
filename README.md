@@ -1,18 +1,18 @@
 # it332-capstone-EDULite
 
-# Important Dates to Remember:
-June 17, 2026 - Creation of GitHub repository.
+  # Important Dates to Remember:
+  June 17, 2026 - Creation of GitHub repository.
 
-July 2026 - (To follow)
+  July 2026 - (To follow)
 
-August 2026 - (To follow)
+  August 2026 - (To follow)
 
-# Milestones Per Week
-1. User login and authentication
-2. Creation of student accounts
-3. Importing of student records through excel files
-4. Data Analytics Processes
-5. Integration of Artificial Intelligence in the system
+  # Milestones Per Week
+  1. User login and authentication
+  2. Creation of student accounts
+  3. Importing of student records through excel files
+  4. Data Analytics Processes
+  5. Integration of Artificial Intelligence in the system
 
 # Lab Activity
 
@@ -78,6 +78,105 @@ Task for Tuesday (June 30, 2026)
 
 Reflection from previous week's deliverables and code:
   -The login and registration system has been succesfully implemented, but no user interface has been created yet.
+
+  # Front-End primary research for 8-bit pixel type style:
+ - Frontend Integration Process
+
+1. Define the Project Structure
+
+Organize the project into separate components:
+
+- Backend – Application logic and data processing.
+- Frontend – User interface, rendering, and input handling.
+- Assets – PNG sprites, UI elements, fonts, and audio.
+
+---
+
+2. Frontend Framework (Pygame)
+
+Framework: Pygame
+
+Pygame will serve as the application's frontend engine. It is responsible for:
+
+- Rendering custom 8-bit PNG graphics.
+- Handling keyboard and mouse input.
+- Managing the application window.
+- Playing animations and audio.
+- Updating the screen every frame.
+
+All interface elements (buttons, menus, icons, backgrounds, etc.) will be created using our own pixel-art assets.
+
+---
+
+3. Organize Assets
+
+Store all visual resources in a dedicated `assets/` folder.
+
+Example:
+
+```text
+assets/
+├── sprites/
+├── ui/
+├── icons/
+├── fonts/
+└── audio/
+```
+
+---
+
+4. Load Assets
+
+Use an Asset Manager to load images, fonts, and audio once during startup. Loaded assets are reused throughout the application to improve performance.
+
+---
+
+5. Build the User Interface
+
+Design the application's screens and reusable UI components, such as:
+
+- Main Menu
+- Settings
+- Buttons
+- Panels
+- Dialog Boxes
+
+---
+
+6. Render the Interface
+
+For each frame, the frontend will:
+
+1. Clear the screen.
+2. Draw the background.
+3. Draw UI components.
+4. Draw sprites and animations.
+5. Update the display.
+
+---
+
+7. Handle User Input
+
+Capture keyboard and mouse events, then send the appropriate actions to the backend.
+
+---
+
+8. Connect Frontend and Backend
+
+The frontend displays information, while the backend processes application logic. User actions trigger backend functions, and the frontend refreshes the interface to reflect any changes.
+
+---
+
+9. Test and Optimize
+
+Before release:
+
+- Test all UI screens.
+- Verify asset loading.
+- Check performance and animations.
+- Package the application for distribution.
+
+---
 
 # Week 3 - Deliverable
 - (To follow)
