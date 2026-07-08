@@ -192,3 +192,16 @@ Before release:
 - Possible change to the technology stack that will be used.
 - Considered shifting the application platform from a desktop application to a web application.
 
+# Plan for the consultations
+
+Concerns:
+
+Removal of some parts of the research study:
+    - “Low-resource”
+        - Removing the “Low-resource” part of the study to only focus on one problem: The student’s focus Retention OR Teacher’s Manual Teaching Methods. (The 2 are correlated)
+        - The removal of the “Low-resource” part of the study would prompt us to change tech stack and implement the system to web-based and use web-based frameworks.
+
+# After Consultation Notes
+- There will be a change of tech stacks for the development as recent changes prove necessary.
+- Panel Ms. Mendez was consulted and informed of new changes for the system
+- A new repository will be needed for the new construction of EduLITE: Web App
