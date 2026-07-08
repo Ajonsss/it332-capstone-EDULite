@@ -186,11 +186,9 @@ Before release:
 - Presented our current progress on our capstone project.
 - For the finals, we are required to present the completed capstone project to our client.
 
-# Plan for the consultations
-Concerns:
-
-Removal of some parts of the research study:
-    - “Low-resource”
-        - Removing the “Low-resource” part of the study to only focus on one problem: The student’s focus Retention OR Teacher’s Manual Teaching Methods. (The 2 are correlated)
-        - The removal of the “Low-resource” part of the study would prompt us to change tech stack and implement the system to web-based and use web-based frameworks.
+# 07/08/26
+- Consulted our thesis adviser and panel regarding potential revisions to our research objectives.
+- Discussed and received feedback on the proposed changes to the project's scope and direction.
+- Possible change to the technology stack that will be used.
+- Considered shifting the application platform from a desktop application to a web application.
 
