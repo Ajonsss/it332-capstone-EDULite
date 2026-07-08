@@ -179,7 +179,8 @@ Before release:
 ---
 
 # Week 3 - Deliverable
-- (To follow)
+
+# Week 4
 
 # 07/06/26 
 - Presented our current progress on our capstone project.
