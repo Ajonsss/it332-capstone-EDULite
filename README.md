@@ -3,7 +3,7 @@
   # Important Dates to Remember:
   June 17, 2026 - Creation of GitHub repository.
 
-  July 2026 - (To follow)
+  July 17, 2026 - Presentation of current system progress to the client.
 
   August 2026 - (To follow)
 
