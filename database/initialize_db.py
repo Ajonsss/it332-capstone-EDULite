@@ -1,4 +1,4 @@
-from connection import get_connection
+from database.connection import get_connection
 
 def initialize_database():
     conn = get_connection()
@@ -11,7 +11,7 @@ def initialize_database():
             password TEXT NOT NULL
         )
     """)
-    
+
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS students (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -19,12 +19,6 @@ def initialize_database():
             scores INTEGER NOT NULL
         )
     """)
-    
-    # cursor.execute("DROP TABLE (name)")
 
     conn.commit()
     conn.close()
-
-if __name__ == "__main__":
-    initialize_database()
-    print("Database initialized successfully.")
