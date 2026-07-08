@@ -185,3 +185,9 @@ Before release:
 - Presented our current progress on our capstone project.
 - For the finals, we are required to present the completed capstone project to our client.
 
+# 07/08/26
+- Consulted our thesis adviser and panel regarding potential revisions to our research objectives.
+- Discussed and received feedback on the proposed changes to the project's scope and direction.
+- Possible change to the technology stack that will be used.
+- Considered shifting the application platform from a desktop application to a web application.
+
